@@ -1,0 +1,117 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 23, 2017, 8:38:08 PM
+    Author     : Paolo
+*/
+
+#plybutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#bckbutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#insbutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#bckButton:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#removePlayer3:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#removePlayer4:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#removePlayer5:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#addPlayer3:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#addPlayer4:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#addPlayer5:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#loadscrn:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#startbutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#playcardbutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#endbutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#nextbutt:hover{
+    -fx-background-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h9:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h1:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h2:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h3:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h4:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h5:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h6:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h7:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h8:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+#h9:hover{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+.mainmenu{
+    -fx-backgorund-color: linear-gradient(#ccffff, #fdd7e4);
+}
+
+.button{
+    -fx-background-color: radial-gradient(grey ,white);
+    }
